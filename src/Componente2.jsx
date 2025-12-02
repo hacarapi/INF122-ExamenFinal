@@ -22,13 +22,13 @@ function Componente2({ titulo = 'T√≠tulo por defecto', descripcion = 'Descripci√
 
                     <div className="col-12 col-md-3 text-center text-md-start mb-3 mb-md-0">
                         <a href="https://www.facebook.com" target="_blank" rel="noreferrer" className="mx-2 text-dark text-decoration-none social-link">
-                        <i className="fa fa-facebook-official social-icon" aria-hidden="true"></i>
-                        <span className="social-title">Facebook</span>
-                    </a>
-                    <a href="https://www.twitter.com" target="_blank" rel="noreferrer" className="mx-2 text-dark text-decoration-none social-link">
-                        <i className="fa fa-twitter social-icon" aria-hidden="true"></i>
-                        <span className="social-title">Twitter</span>
-                    </a>
+                            <i className="fa fa-facebook-official social-icon" aria-hidden="true"></i>
+                            <span className="social-title">Facebook</span>
+                        </a>
+                        <a href="https://www.twitter.com" target="_blank" rel="noreferrer" className="mx-2 text-dark text-decoration-none social-link">
+                            <i className="fa fa-twitter social-icon" aria-hidden="true"></i>
+                            <span className="social-title">Twitter</span>
+                        </a>
                     </div>
                 </div>
             </div>
